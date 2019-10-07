@@ -1,4 +1,4 @@
-# Northwind Database Overview:
+# Northwind Database Project Overview:
 
 I was brought onto this project as a data scienctist to provide insights into a supply chain. Given that the project was very vague, I went on to perform statistical analysis on the supply chain's customers, suppliers, and overall efficiency.
 
